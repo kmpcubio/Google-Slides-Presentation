@@ -1,1 +1,2 @@
 # Google-Slides-Presentation
+This repository contains presentations and discussion materials about the basics of Google Slides. It covers the essential features, tools, and functions of Google Slides, including creating presentations, adding and editing text and images, customizing slide designs, and organizing slides. The goal is to help beginners learn how to use Google Slides and create simple, effective presentations.
